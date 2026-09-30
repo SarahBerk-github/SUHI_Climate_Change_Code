@@ -67,7 +67,7 @@ Future SUHI projections
 
 The scripts contain file paths specific to the original computing environment. These paths should be changed before running the analysis on another system.
 
-Processing of the CMIP6 ESM output was originally performed on the UKRI JASMIN data-analysis facility. 
+Processing of the CMIP6 ESM output was originally performed on JASMIN, the UK collaborative data analysis facility (NERC, UKRI). 
 
 ## Associated publication
 
