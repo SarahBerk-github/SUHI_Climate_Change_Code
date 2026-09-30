@@ -1,4 +1,4 @@
-# Projected changes in surface urban heat islands under climate change
+# Projected changes in surface urban heat islands under 2 °C climate change
 
 This repository contains the code used to model present-day and future changes in the surface urban heat island (SUHI) across cities globally.
 
