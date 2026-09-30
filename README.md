@@ -73,5 +73,4 @@ Processing of the CMIP6 ESM output was originally performed on JASMIN, the UK co
 
 This repository contains code associated with:
 
-[Berk, S. et al. (2026) “Amplified warming in tropical and subtropical cities under 2 °C climate change,” Proceedings of the National Academy of Sciences](https://doi.org/10.1073/pnas.2502873123)[Amplified warming in tropical and subtropical cities under 2 °C climate change].,[PNAS],[2026]
-DOI: https://doi.org/10.1073/pnas.2502873123
+[Berk, S. et al. (2026) “Amplified warming in tropical and subtropical cities under 2 °C climate change,” Proceedings of the National Academy of Sciences](https://doi.org/10.1073/pnas.2502873123)
